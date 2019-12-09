@@ -1,5 +1,5 @@
 Package: dynprog
-Version: 0.1.0
+Version: 0.1.1
 Title: Dynamic Programming Domain-Specific Language
 Description: A domain-specific language for specifying translating recursions
     into dynamic-programming algorithms. See 
@@ -14,12 +14,12 @@ LazyData: true
 ByteCompile: true
 Imports: rlang (>= 0.1.2)
 Suggests: covr, testthat
-RoxygenNote: 6.0.1
+RoxygenNote: 7.0.2
 URL: https://github.com/mailund/dynprog
 BugReports: https://github.com/mailund/dynprog/issues
 NeedsCompilation: no
-Packaged: 2018-03-26 14:47:48 UTC; mailund
+Packaged: 2019-12-09 10:55:04 UTC; mailund
 Author: Thomas Mailund [aut, cre]
 Maintainer: Thomas Mailund <mailund@birc.au.dk>
 Repository: CRAN
-Date/Publication: 2018-03-27 19:15:50 UTC
+Date/Publication: 2019-12-09 11:10:02 UTC

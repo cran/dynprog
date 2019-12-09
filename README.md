@@ -7,9 +7,9 @@
 [![Project Status: Active – The project has reached a stable, usable
 state and is being actively
 developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
-[![lifecycle](http://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
-[![Last-changedate](https://img.shields.io/badge/last%20change-2018--03--24-orange.svg)](/commits/master)
-[![packageversion](https://img.shields.io/badge/Package%20version-0.1.0-orange.svg?style=flat-square)](commits/master)
+[![lifecycle](http://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+[![Last-changedate](https://img.shields.io/badge/last%20change-2018--03--29-orange.svg)](https://github.com/mailund/dynprog/commits/master)
+[![packageversion](https://img.shields.io/badge/Package%20version-0.1.0.9000-orange.svg?style=flat-square)](https://github.com/mailund/dynprog/commits/master)
 [![Travis build
 status](https://travis-ci.org/mailund/dynprog.svg?branch=master)](https://travis-ci.org/mailund/dynprog)
 [![AppVeyor build
@@ -23,7 +23,7 @@ status](http://www.r-pkg.org/badges/version/dynprog)](https://cran.r-project.org
 [![CRAN
 downloads](http://cranlogs.r-pkg.org/badges/grand-total/dynprog)](https://cran.r-project.org/package=dynprog)
 [![minimal R
-version](https://img.shields.io/badge/R-%E2%89%A53.1-blue.svg)](https://cran.r-project.org/)
+version](https://img.shields.io/badge/R-%E2%89%A53.2-blue.svg)](https://cran.r-project.org/)
 
 The `dynprog` package implements a small domain-specific language for
 specifying dynamic programming algorithms. It allows you to specify a
